@@ -22,4 +22,4 @@ jobs:
       - name: Install requirements
         run: pip install -r requirements.txt
       - name: Run Scraper
-        run: python fk_scrapper.py
+        run: python jumia_scrapper.py
