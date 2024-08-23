@@ -10,18 +10,6 @@ from datetime import datetime
 from pytz import timezone
 
 
-element = soup.find('div', {'class': 'example'})
-if element:
-    text = element.get_text()
-else:
-    text = 'Element not found'
-
-element = soup.find('', {'class': 'example'})
-print(element)  # Check if the element is found
-
-print(soup.prettify())  # Print the parsed HTML to debug
-
-
 def extract_jumia_price(url):
     request = requests.get(url)
     soup = bs(request.content,'html.parser')
