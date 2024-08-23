@@ -1,9 +1,9 @@
 name: Scrape
 
-on:
-  schedule:
-    - cron: "*/8 * * * *"
-  workflow_dispatch:
+on: push
+  # schedule:
+  #   - cron: "*/8 * * * *"
+  # workflow_dispatch:
 
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
