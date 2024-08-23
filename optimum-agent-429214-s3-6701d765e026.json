@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimum-agent-429214-s3",
+  "private_key_id": "6701d765e026741af5fb9a6fea4ef48b7f44a05f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCmxyitvU1f4rj\nLK6SKxCwMr0DPw4iRFki5LznWs8ceqS1zGeLCjWN3HfNsGJnGxXtRPALuDnR5+2p\nHaprimkITUQe/pWcgDGbY0hwneAM1MiE4uepNBXQniiEYjw8xBvuvuKndG1x7iYE\nIQ6yWRGeHkZWZCJn/Xe5q8FD/hIc3UnLloD/gpzqqBNRhn5yGfALlBvSpL26Z8sg\n2SC9nmWgiAX7dfx5niLJxBjA9ozs2KjEnYKDIt95p0rtVK+EMGOrItooU89VhaRO\nw0wnaG+5l1OWKNyAwchPMmm5oPZoxfhD7Hm4/MhwdOEfl+vx9je29HXP8EPNc/0l\njVGJn0Z9AgMBAAECggEASXDZHyz1oAFojDAWF3JqI1yaiSmYL2Vk0C7LfXH/PEuq\ncjNYFhg9urIrgjPhBvEpVrgP8RROucERpyNbZ6c92RSzsxC3rG6SigYvVdS2s5Dv\ntXqeG3RdETRGrSMXgYUu12wxRCnDjd3meeNx1OuZIvdg6wRyGZWFw8umLX8qHbrZ\nQYrNStKJ1BLyOTzPGmOf4I1MyEwhStT/yQmvxYRJXcGYo4sn6Z0VGwUVIndOl/az\nraE3uWtmFkQq7wFAbsgalhcV/y7Ip5lVM/ODfeQsUCD5CGrR0ZtHiDBJyJIiosUQ\nMbhtvPXuHEQClirRp7nmArRglDUgqBwS9WKuLTyM7wKBgQD/CTh/B0vFVW2EoL7k\nSgZHeTmG6HwqY9/T0bhk/SSgYaQsFqqBDttrdTW/Eru89OCMgGxCDXicaNjt9pL5\nmgUQFIB/Bg7HDMMCsxD+Lr7DgFyUqI2OG3Jo3KasGugcJA20VNv4EIx25/2itJ/d\ne9VF/a4kWT0SQxa4HWFn+f+ocwKBgQDDV2rexpbb/GrwW7zRfqs4yB/JNKddvK3/\nqWmgGQPxo7zhs7FotIvG+XJgNMuZHKzRTDB+FirymOEwaEQsEXcq+FVLMjOlEChF\nxft1iGw1Nm/ej6othcOJtGjZPhFNhmn4/yNPHcs5JlwwQEHv0/KGGcf1XfGquYJ2\n4a5KL6jJTwKBgCrxR4UEGnsIrl8lnd7cpAAG5mvT24xbssV8y5qdkTw8FKOj0WPX\nt5R5cOpSYjAn32NpAFGC6SsU8GnpGchTacTSXuyEfZqAiJl8w0C5aD+M7onNc8BY\n2MPVW28hPLH4VCJoI326c5xV5bwuw7hMcJXPaDIQoJrhlwK7V7plOuoHAoGADLHK\npS2csjEmNfaQP8EOmYMP5cCBO+s+F4ZH8fqOMg7lAHnwBpDtIIInd68WqB2f8X4V\nDKyeH+PlhoLQI1kDOIyo5lkd2BVDuL0UCWBTP+YIwRrvAURXH8TUp4GMGFCq5F6Y\nSdTy1wTyKsSSRGautR5Jy11Ojjy+CMHD1NhiDKsCgYBt5QtFbAN51VzEDtPrWfc6\nISkMbRiJPleq1xQOf+Oi2bYc5LI7gfm+VxLp0SbN2qDyt42s5DcQbl9aPtjsDEIx\nRkuwQQ63INlhjW17Fkne5jHzQxeYfHI4TZLPSiGg2mYHonlaIun5HXevPCWtQP71\ni9a2Eg8gb+5zMmzzZ99Fjg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "emmy-157@optimum-agent-429214-s3.iam.gserviceaccount.com",
+  "client_id": "114172295433506246607",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emmy-157%40optimum-agent-429214-s3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
